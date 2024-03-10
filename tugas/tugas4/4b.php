@@ -7,7 +7,7 @@ $component = ["Motherboard", "Processor", "Hard Disk", "PC Cooler", "VGA Card", 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>'⚡Hardware Components | Kresna Satria Dewantoro</title>
+    <title>'⚡Hardware Components | Bryan Qwertyas Amalo</title>
 </head>
 <body>
     <h3>Macam-macam perangkat keras komputer</h3>
