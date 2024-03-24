@@ -17,7 +17,7 @@ $component = ["Motherboard", "Processor", "Hard Disk", "PC Cooler", "VGA Card", 
         <?php } ?>
     </ol>
 
-    <h3> Macam-macam perangkat keras komputer baru</h3>
+    <h3> Macam-macam perangkat keras xkomputer baru</h3>
     <ol>
         <?php array_push($component, "Card Reader", "Modem");?>
         <?php sort($component) ?>    
