@@ -110,7 +110,7 @@ if (isset($_GET['kategori'])) {
 							<div class="carousel-caption d-md-block">
 								<h5 class="text-white-50 release ps-2 fs-6">NEW RELEASES</h5>
 								<h1 class="font_80 mt-4">World War II: From the Frontlines
-									<h6 class="text-white"><span class="rating d-inline-block rounded-circle me-2 col_green">6.1</span> <span class="col_green">IMDB SCORE</span> <span class="mx-3">2023</span> <span class="col_red">Documentary, Action</span></h6>
+									<h6 class="text-white"><span class="rating d-inline-block rounded-circle me-2 col_green">6.1</span> <span class="col_green">IMDB SCORE</span> <span class="col_red">Documentary, Action</span></h6>
 									<p class="mt-4">Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before.</p>
 									<h5 class="mb-0 mt-4 text-uppercase"><a class="button" href="#"><i class="fa fa-youtube-play me-1"></i> Watch Trailer</a></h5>
 							</div>
@@ -120,7 +120,7 @@ if (isset($_GET['kategori'])) {
 							<div class="carousel-caption d-md-block">
 								<h5 class="text-white-50 release ps-2 fs-6">NEW RELEASES</h5>
 								<h1 class="font_80 mt-4">Captain America: The First Avenger<br>
-									<h6 class="text-white"><span class="rating d-inline-block rounded-circle me-2 col_green">7.3</span> <span class="col_green">IMDB SCORE</span> <span class="mx-3">2022</span> <span class="col_red">Romance, Action</span></h6>
+									<h6 class="text-white"><span class="rating d-inline-block rounded-circle me-2 col_green">7.3</span> <span class="col_green">IMDB SCORE</span> <span class="col_red">Action</span></h6>
 									<p class="mt-4">Certain but she but shyness why cottage. Guy the put instrument sir entreaties affronting.</p>
 									<h5 class="mb-0 mt-4 text-uppercase"><a class="button" href="#"><i class="fa fa-youtube-play me-1"></i> Play Movie</a></h5>
 							</div>
@@ -130,7 +130,7 @@ if (isset($_GET['kategori'])) {
 							<div class="carousel-caption d-md-block">
 								<h5 class="text-white-50 release ps-2 fs-6">NEW RELEASES</h5>
 								<h1 class="font_80 mt-4">Antman
-									<h6 class="text-white"><span class="rating d-inline-block rounded-circle me-2 col_green">8.2</span> <span class="col_green">IMDB SCORE</span> <span class="mx-3">2015</span> <span class="col_red">Action</span></h6>
+									<h6 class="text-white"><span class="rating d-inline-block rounded-circle me-2 col_green">8.2</span> <span class="col_green">IMDB SCORE</span> <span class="col_red">Action</span></h6>
 									<p class="mt-4">Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.</p>
 									<h5 class="mb-0 mt-4 text-uppercase"><a class="button" href="#"><i class="fa fa-youtube-play me-1"></i> Watch Trailer</a></h5>
 							</div>
@@ -169,7 +169,7 @@ if (isset($_GET['kategori'])) {
 							</div>
 						</div>
 						<div class="stream_2im2 position-absolute w-100 h-100 p-3 top-0  clearfix">
-							<h6 class="font_14 col_red">ROMANCE, DRAMA</h6>
+							<h6 class="font_14 col_red">ACTION, DRAMA</h6>
 							<h4 class="text-white">Money Heist</h4>
 							<h6 class="font_14 mb-0 text-white"><a class="text-white me-1 font_60 align-middle lh-1" href="#"><i class="fa fa-play-circle"></i></a> SEASON 1 - 2020</h6>
 						</div>
@@ -185,7 +185,7 @@ if (isset($_GET['kategori'])) {
 							</div>
 						</div>
 						<div class="stream_2im2 position-absolute w-100 h-100 p-3 top-0  clearfix">
-							<h6 class="font_14 col_red">ROMANCE, DRAMA</h6>
+							<h6 class="font_14 col_red">ACTION</h6>
 							<h4 class="text-white">Memory</h4>
 							<h6 class="font_14 mb-0 text-white"><a class="text-white me-1 font_60 align-middle lh-1" href="#"><i class="fa fa-play-circle"></i></a> SEASON 1 - 2020</h6>
 						</div>
@@ -201,7 +201,7 @@ if (isset($_GET['kategori'])) {
 							</div>
 						</div>
 						<div class="stream_2im2 position-absolute w-100 h-100 p-3 top-0  clearfix">
-							<h6 class="font_14 col_red">ROMANCE, DRAMA</h6>
+							<h6 class="font_14 col_red">ACTION</h6>
 							<h4 class="text-white">Batman</h4>
 							<h6 class="font_14 mb-0 text-white"><a class="text-white me-1 font_60 align-middle lh-1" href="#"><i class="fa fa-play-circle"></i></a> SEASON 1 - 2020</h6>
 						</div>
@@ -217,7 +217,7 @@ if (isset($_GET['kategori'])) {
 							</div>
 						</div>
 						<div class="stream_2im2 position-absolute w-100 h-100 p-3 top-0  clearfix">
-							<h6 class="font_14 col_red">ROMANCE, DRAMA</h6>
+							<h6 class="font_14 col_red">ACTION, DRAMA</h6>
 							<h4 class="text-white">Moon Knight</h4>
 							<h6 class="font_14 mb-0 text-white"><a class="text-white me-1 font_60 align-middle lh-1" href="#"><i class="fa fa-play-circle"></i></a> SEASON 1 - 2020</h6>
 						</div>
@@ -302,7 +302,7 @@ if (isset($_GET['kategori'])) {
 					<div class="col-lg-2 pe-0 col-md-4">
 						<div class="spec_1im clearfix position-relative">
 							<div class="spec_1imi clearfix">
-								<a href="movie-detail.php?judul=<?php echo $data['judul']; ?>"><img src="adminpanel/image/<?php echo $data['gambar']; ?>" class="w-100" alt="abc"></a>
+								<a href="pages/movie-detail.php?judul=<?php echo $data['judul']; ?>"><img src="adminpanel/image/<?php echo $data['gambar']; ?>" class="w-100" alt="abc"></a>
 							</div>
 						</div>
 						<div class="spec_1im1 clearfix mt-2">

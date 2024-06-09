@@ -18,7 +18,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="movie.php"> Movie </a>
+                            <a class="nav-link" href="pages/movie.php"> Movie </a>
                         </li>
 
                         <li class="nav-item">
@@ -27,22 +27,7 @@
 
                     </ul>
                     <ul class="navbar-nav mb-0 ms-auto">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle dropdown_search" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="true">
-                                <i class="fa fa-search"></i>
-                            </a>
-                            <ul class="dropdown-menu drop_1 drop_o p-3" aria-labelledby="navbarDropdown" data-bs-popper="none">
-                                <li>
-                                    <div class="input-group p-2">
-                                        <input type="text" class="form-control border-0" placeholder="Search Here">
-                                        <span class="input-group-btn">
-                                            <button class="btn btn-primary bg-transparent border-0 fs-5" type="button">
-                                                <i class="fa fa-search col_red"></i> </button>
-                                        </span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </li>
+                        
                         <li class="nav-item">
                             <a class="nav-link" href="login.php"><i class="fa fa-user fs-3 align-middle me-1 mb-1 lh-1 col_red"></i> Account </a>
                         </li>
