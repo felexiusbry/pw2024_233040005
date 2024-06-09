@@ -3,11 +3,11 @@
 session_start();
 
 // Buat koneksi ke database
-$conn = new mysqli("localhost", "root", "", "playshow2");
+require 'function.php';
 
 // Periksa koneksi
-if ($conn->connect_error) {
-	die("Koneksi gagal: " . $conn->connect_error);
+if ($con->connect_error) {
+	die("Koneksi gagal: " . $con->connect_error);
 }
 
 // Periksa apakah pengguna sudah login sebelumnya
@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		if (!empty($username) && !empty($password)) {
 			// Melakukan query ke database
 			$query = "SELECT * FROM user WHERE username = '$username'";
-			$result = $conn->query($query);
+			$result = $con->query($query);
 
 			if ($result && $result->num_rows == 1) {
 				// Login berhasil
@@ -58,7 +58,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 
 // Tutup koneksi ke database
-$conn->close();
+$con->close();
 
 
 ?>

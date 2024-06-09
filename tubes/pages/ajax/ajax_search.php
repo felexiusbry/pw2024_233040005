@@ -1,6 +1,7 @@
 <?php
 // koneksi database
-$con = mysqli_connect("localhost", "root", "", "playshow2");
+require '../../function.php';
+
 
 // cek apakah parameter keyword ada
 if (isset($_GET['keyword'])) {

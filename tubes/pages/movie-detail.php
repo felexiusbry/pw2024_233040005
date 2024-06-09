@@ -1,7 +1,7 @@
 <?php
 // koneksi database
-include '../function.php';
-$con = mysqli_connect("localhost", "root", "", "playshow2");
+require '../function.php';
+
 
 if (!$con) {
     die("Connection failed: " . mysqli_connect_error());

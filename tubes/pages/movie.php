@@ -1,6 +1,6 @@
 <?php
 // koneksi database
-$con = mysqli_connect("localhost", "root", "", "playshow2");
+require '../function.php';
 
 // query kategori
 $queryKategori = mysqli_query($con, "SELECT * FROM kategori");

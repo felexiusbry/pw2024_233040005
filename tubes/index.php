@@ -2,7 +2,6 @@
 // koneksi database
 
 include 'function.php';
-$con = mysqli_connect("localhost", "root", "", "playshow2");
 ?>
 
 <?php $queryFilm = mysqli_query($con, "SELECT id, judul, durasi, rating, kualitas, resolusi, kategori_id, gambar FROM  film LIMIT 6"); ?>

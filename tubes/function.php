@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost", "root", "", "playshow2");
+$con = mysqli_connect("localhost", "root", "", "playshow2");
 
 
 function query($query)
